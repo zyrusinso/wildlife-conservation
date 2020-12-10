@@ -105,7 +105,7 @@
 <style>
 
 .CoverBackGround{
-    background-image: url('/uploads/flowers.jpg') ;
+    background-image: url('/uploads/Flowers.jpg') ;
     background-size: cover;
     background-position: center center;
     height: 300vh auto;
