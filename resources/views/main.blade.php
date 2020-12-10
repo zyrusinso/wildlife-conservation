@@ -3,8 +3,8 @@
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
-        <div>
-            <img src="uploads/title.png" style="item-align: center;" class="navbar-brand" >    
+        <div class="">
+            <img src="uploads/title.png" style="item-align: center; width: 95%;" class="navbar-brand">    
         </div>
         <div class="col-md-9">
             
@@ -63,6 +63,7 @@
 <style>
 
 *{
+   
     box-sizing: border-box;
    
 }
@@ -85,8 +86,11 @@
     background-repeat: no-repeat;
     width: auto;
     
+    
 
 }
+
+
 
 ._title{
 
@@ -117,6 +121,8 @@
     
 
 }
+
+
 
 
 .responsiveClass{
